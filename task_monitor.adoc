@@ -1,0 +1,57 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_monitor.html 
+keywords: saas backup, partner central, microsoft 365, monitor, backup, sync, restore, jobs 
+summary: 您可以在SaaS Backup Partner Central中監控SaaS Backup for Microsoft 365備份、同步及還原客戶的工作。 
+---
+= 監控客戶工作
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以在SaaS Backup Partner Central中監控SaaS Backup for Microsoft 365客戶的備份、同步及還原工作。
+
+.步驟
+. 在儀表板中、按一下*監控*。
++
+image:monitoring.png["監控頁面"]
+
++
+在*監控*中、您可以在兩個獨立的索引標籤中查看客戶的工作記錄：*執行工作*和*完成工作*。
+
+. 您可以依工作類型、服務類型、網域名稱和狀態來篩選*執行中的工作*和*完成的工作*。
++
+.. 若要依工作類型篩選、請按一下「*工作類型*」下的「*篩選器*」、然後選取工作類型。
++
+image:filter_job_type.png["依工作類型篩選"]
+
++
+*現在*工作類型是指隨需工作。
+
+.. 若要依服務類型篩選、請按一下「*服務類型*」下的「*篩選器*」、然後選取該服務。
++
+選取服務：
+
++
+*** Exchange Online
+*** 商務用OneDrive
+*** SharePoint Online
+*** Office 365群組
+
+
+.. 若要依客戶篩選、請按一下*網域名稱*下的*篩選器*、然後選取或搜尋客戶網域。
++
+image:filter_customer_domain.png["依客戶網域篩選"]
+
+.. 若要依狀態篩選、請按一下「*狀態*」下的「*篩選器*」、然後選取狀態。
++
+image:filter_job_status.png["依工作狀態篩選"]
+
+
+
+

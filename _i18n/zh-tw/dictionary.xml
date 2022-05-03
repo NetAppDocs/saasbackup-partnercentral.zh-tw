@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="ec4f83a67a4298da0fd76c4e8a66dc85" category="summary">歡迎使用適用於Partner Central的NetApp SaaS備份文件入口網站。</block>
+  <block id="026434100c73bca9db8ba1db98cc3853" category="doc">NetApp SaaS備份合作夥伴中心文件</block>
+  <block id="1fcc6bcfa809f3049279857f9d1b7273" category="paragraph">NetApp SaaS Backup Partner Central是一個介面、可協助NetApp合作夥伴管理及支援使用SaaS Backup for Microsoft 365的客戶。本指南提供在Partner Central中註冊、管理客戶、以及修改設定、合作夥伴與客戶資訊的步驟。</block>
+  <block id="1fde0727b387439572ade83eecff4f68" category="section-title">瞭解新功能</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="inline-link-macro">版本資訊</block>
+  <block id="581ba4d54ae65da41a0053e95e169521" category="list-text"><block ref="581ba4d54ae65da41a0053e95e169521" category="inline-link-macro-rx"></block></block>
+  <block id="e92ad139d030481f83fb34bc6eb4528d" category="list-text">如需產品更新、使用方法影片及服務健全狀況的相關資訊、請前往*新增功能*儀表板檢視。</block>
+  <block id="0986f01a9420777b16c71fa93baf093c" category="inline-image-macro">Partner Central *最新消息*</block>
+  <block id="b279b89b9e34c9bf7c7a5d71501ff66e" category="paragraph"><block ref="b279b89b9e34c9bf7c7a5d71501ff66e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="section-title">開始使用</block>
+  <block id="1325c3a2cbd2cfb1824aa9cad1a621e4" category="inline-link-macro">註冊Partner Central</block>
+  <block id="8c0bb188b1237a0ae31433c79e2f5d47" category="list-text"><block ref="8c0bb188b1237a0ae31433c79e2f5d47" category="inline-link-macro-rx"></block></block>
+  <block id="d49de289e20571eb99e4a0977115b68c" category="inline-link-macro">新增及管理客戶</block>
+  <block id="f0574eebed692d1092cfb6407b62fffc" category="list-text"><block ref="f0574eebed692d1092cfb6407b62fffc" category="inline-link-macro-rx"></block></block>
+  <block id="653316d25aae6954634e9748ba1d171b" category="section-title">取得協助、尋找更多資訊、並提供意見反應</block>
+  <block id="ddea22f33f23ab329fa2d5ff93c65b59" category="list-text">若要存取不同的支援資源、請前往Partner Central使用者介面中的* Support*。</block>
+  <block id="b9bfbe11ded79fa1b72b327d0497f9dd" category="inline-image-macro">支援頁面</block>
+  <block id="c347730653bac5e5156350f0c39bf931" category="paragraph"><block ref="c347730653bac5e5156350f0c39bf931" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="63f924ad6e630ef5a0e381ec521b87fe" category="paragraph">「*支援*」頁面可讓您存取*知識庫*文章、*社群*、*適用於Microsoft 365 SaaS備份的使用手冊*、以及*信任中心*。如果您選擇*聯絡我們*、您也可以提供意見回饋和詢問問題。</block>
+  <block id="a3a22dea39505cf4935b32a69d04577d" category="inline-link-macro">適用於Microsoft 365的SaaS備份產品頁面</block>
+  <block id="1f4d712278351ffe49efbc8e9679ded6" category="list-text"><block ref="1f4d712278351ffe49efbc8e9679ded6" category="inline-link-macro-rx"></block></block>
+  <block id="898870c352488e6b16c2e7f4f8ce046e" category="inline-link-macro">SaaS Backup for Microsoft 365的使用者文件</block>
+  <block id="ec7b042d6bd4940e6f703a255c3797d3" category="list-text"><block ref="ec7b042d6bd4940e6f703a255c3797d3" category="inline-link-macro-rx"></block></block>
+  <block id="95fbc7fae03c5958796ccfe1e17c2188" category="summary">您可以在SaaS Backup Partner Central中修改、新增及指派不同的使用者角色。</block>
+  <block id="19f1799814a50fc19daad0ce851f2b34" category="doc">管理角色</block>
+  <block id="dec256c2ef2cae867b7bc9cd2ad8a1fb" category="paragraph">在SaaS Backup Partner Central中、您可以修改、新增及指派不同的使用者角色。</block>
+  <block id="04b0c5c75df205fcad139dbd1502302c" category="paragraph">「角色管理」*中的預設電子郵件是合作夥伴電子郵件。</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步驟</block>
+  <block id="e764def590791cf4cdcf76be35dc41af" category="inline-image-macro">設定圖示</block>
+  <block id="83f10fc8f41778740afb2d99d851c6a9" category="list-text">在儀表板中、按一下 <block ref="af84445977eda1f857a54475e4db9fc6" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="f02a76538edb1d69389dfa8798b9a34d" category="list-text">從下拉式功能表中選取*角色管理*。</block>
+  <block id="e451b2a978a56c527536b173c027e053" category="inline-image-macro">「設定」下拉式功能表選取「角色管理」</block>
+  <block id="d1783fc36fc48be3f309d9ed28c116b3" category="paragraph"><block ref="d1783fc36fc48be3f309d9ed28c116b3" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1781d870f61439bdb2d4a63f9f436a73" category="list-text">在*角色管理*中、您可以新增、修改及刪除角色。</block>
+  <block id="ab3d8986363bb68bf8077930561e8609" category="inline-image-macro">角色管理畫面</block>
+  <block id="6e2496b01be8b61f61e4839f736742ce" category="paragraph"><block ref="6e2496b01be8b61f61e4839f736742ce" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="7104882c009110b9584f53d54d9581e6" category="inline-image-macro">新增圖示</block>
+  <block id="41bf31365b68994d692e3c95d6906259" category="list-text">若要新增使用者、請按一下 <block ref="573e344bf1a396d1ad86f7dd57c31100" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="5f6583d2296b94c8bff1df813d5b80e3" category="paragraph">在*新增使用者*中、輸入要求的資訊。</block>
+  <block id="b8363556b2a02fb7bc88f4455839e111" category="inline-image-macro">新增使用者角色管理畫面</block>
+  <block id="db712324134edec57f36c93974f19d60" category="paragraph"><block ref="db712324134edec57f36c93974f19d60" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="577dfcc9bb54fa6779d9758044176566" category="list-text">選取使用者的角色。</block>
+  <block id="6be8dec4b765351c65ee4174e1ae7210" category="list-text">*全球合作夥伴管理*：可建立其他全球合作夥伴、並完全掌控所有角色。</block>
+  <block id="a96595165098f1fa3d46f2f997fe95a0" category="list-text">*完整管理*：完全掌控全球合作夥伴以外的所有角色。</block>
+  <block id="3150041c64d69a098294e6d7683d43ad" category="list-text">*組態管理*：可新增及刪除客戶。</block>
+  <block id="0f86fcaaecd18bb5b840cecfe55df6dc" category="inline-image-macro">鉛筆圖示</block>
+  <block id="dd3a8880e867a3ac93b3cd50d72c1dee" category="list-text">若要修改使用者角色、請按一下 <block ref="6f4eb4ae8336a2a7418d442f0bb5ddd7" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="5f11c7889df3330ff1f653f5e5702931" category="inline-image-macro">刪除圖示</block>
+  <block id="e5dea6b15e24231a11c6baaefc9a5e44" category="list-text">若要刪除使用者、請按一下 <block ref="a20be33c177568cb4088182d62b5491f" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="9f17d538fb0b2211b606faeaf16eee09" category="summary">已知問題與限制的清單。</block>
+  <block id="2813f127dc58929fb553bc32684c2e46" category="doc">已知問題與限制</block>
+  <block id="90984e07fc5e2f55101ea8cc3753dd28" category="paragraph">存在下列限制：</block>
+  <block id="06378ee42ea1246f2fdeb4263f6aab0a" category="list-text">合作夥伴無法根據委派的權限來裝載租戶。</block>
+  <block id="85419baaef35c65c10cd7fc01ff8d8e2" category="summary">在SaaS Backup Partner Central中、您可以新增、修改及刪除不同使用者的通知。</block>
+  <block id="1b799238211a6924f3bc70f0d21bb243" category="doc">管理通知</block>
+  <block id="11d6e507bd9501050250f5cda638bb12" category="paragraph">您可以啟用或停用下列通知：</block>
+  <block id="10b868dcddadc540ab7dfb25f02678e4" category="list-text">新增使用者至角色</block>
+  <block id="6dbb244b049e3aa95e905ae7ed3ad6e3" category="list-text">客戶刪除成功</block>
+  <block id="0eebfa9f56bd6bae00baf48279033b57" category="list-text">成功的客戶</block>
+  <block id="45fa99ecc77a6925bdd7245ed26b852d" category="list-text">客戶刪除失敗</block>
+  <block id="576ab7907f821d9416509c319abbb379" category="list-text">客戶機上故障</block>
+  <block id="394ebe58da4bde523fb655aac9d4c308" category="list-text">從下拉式功能表中選取*通知*。</block>
+  <block id="028c52374df3ee4ae6e8d590bf6fc0b5" category="inline-image-macro">設定下拉式功能表選取通知</block>
+  <block id="f6f2ab8ecc6574ef778b858a68caf5ca" category="paragraph"><block ref="f6f2ab8ecc6574ef778b858a68caf5ca" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a910a271bd2138433e52f1b9a2fe0643" category="list-text">在*通知管理*中、您可以新增、修改及刪除通知。</block>
+  <block id="aa09a0ecd252f9faef1d681d1d7dbe4d" category="inline-image-macro">通知管理畫面</block>
+  <block id="fa207f1a09c67d63ad7297a49071f153" category="paragraph"><block ref="fa207f1a09c67d63ad7297a49071f153" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0ad9f25d9f8184c0691fe9d58899ef5d" category="inline-image-macro">新增通知圖示</block>
+  <block id="b239edec484dfc273f453c75f5577c97" category="list-text">若要新增通知、請按一下 <block ref="220811ed6600502a3abfe7154313791c" category="inline-image-macro-rx" type="image"></block> 可向用戶增加通知。</block>
+  <block id="f5beb169b946a802a1c792fa686b5d16" category="paragraph">在*新增通知*中、輸入使用者的電子郵件地址。選取您要啟用的通知、然後按一下「*新增*」。</block>
+  <block id="5747fc79ee23adae38f0d16ed483aabe" category="inline-image-macro">自訂通知</block>
+  <block id="4a0150a7fb21124b3129b0a342d0d7c2" category="paragraph"><block ref="4a0150a7fb21124b3129b0a342d0d7c2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c44ce6c18468e70c7fde5f6f5443cc3b" category="list-text">若要修改通知、請按一下 <block ref="6f4eb4ae8336a2a7418d442f0bb5ddd7" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="b251cd3cfccee18ac398d4e7ec17a627" category="list-text">若要刪除通知、請按一下 <block ref="a20be33c177568cb4088182d62b5491f" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="8406a3eb7eb4eb3545d06adeb2ffe3c5" category="summary">在SaaS Backup Partner Central中、* Statistics *（統計資料*）畫面會顯示多種類別的統計資料、協助您管理適用於Microsoft 365客戶的SaaS備份。</block>
+  <block id="c33e404a441c6ba9648f88af3c68a1ca" category="doc">統計資料</block>
+  <block id="a7a802422882fa27c6c48d8c3fa48a13" category="paragraph">在SaaS Backup Partner Central中、* Statistics（統計資料）*檢視會顯示統計資料、協助您管理適用於Microsoft 365客戶的SaaS備份。</block>
+  <block id="2b5f61cbdbebe3605c11d7b6e63ed695" category="paragraph">下列項目會顯示數值統計資料：</block>
+  <block id="049365e1f7c8ee3fb0675fb91c472548" category="list-text">*獲授權的客戶*</block>
+  <block id="8fbb0da39dce1d1e7febe0534518d15c" category="list-text">*試用（客戶）*</block>
+  <block id="e0909a6ee021401b1580195b73449f1e" category="list-text">*作用中工作*</block>
+  <block id="052311902605573af36ad4c93a975e4c" category="list-text">*匯出工作*</block>
+  <block id="8309c46c49390f3f776c758c908022ed" category="list-text">*受保護的使用者*</block>
+  <block id="ab84edd66b924a46250d9d44f205d56a" category="list-text">*還原工作*</block>
+  <block id="2e7492c21c2f6eab9acebb1937264992" category="list-text">*客戶總數*</block>
+  <block id="a284c77e0d42f7d3165c3f26c75ac589" category="list-text">*總工作數*</block>
+  <block id="bc9c8604e1b2eafa13d9f9d9a2fb7174" category="inline-image-macro">數字統計資料</block>
+  <block id="2c1bdf3031b0c7155a99dfd0e43c9c34" category="paragraph"><block ref="2c1bdf3031b0c7155a99dfd0e43c9c34" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8fd25c8b3575e9d25c72ac0110c46477" category="paragraph">下列項目的圖形統計資料會顯示出來：</block>
+  <block id="42a97ae0de834221cf3ec94c0045f1c1" category="list-text">*客戶*</block>
+  <block id="ecac10bc87d9557f64906694680e0cb4" category="list-text">*工作*</block>
+  <block id="5e7be6d03d7b3fe38948144b583c0328" category="inline-image-macro">圖形統計資料</block>
+  <block id="602f092c2d9838be5216db05e74ddc1f" category="paragraph"><block ref="602f092c2d9838be5216db05e74ddc1f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="41017f616913d94c4645396f4729b1b2" category="summary">SaaS Backup Partner Central定期推出新版本、為您帶來新功能、增強功能和錯誤修正。</block>
+  <block id="3e248cf36a6ce8d04e21a6fbb7b087f0" category="doc">新功能與更新</block>
+  <block id="7bb8a10d97088f8bc42a3a0cb091c803" category="paragraph">NetApp SaaS備份合作夥伴中心的此版本已新增下列新功能與更新。</block>
+  <block id="f156b97b5fa3f266e3d0a2217380feae" category="paragraph">請前往Partner Central儀表板的*新增功能*檢視、查看最新更新、使用方法影片、以及服務健全狀況的相關資訊摘要。</block>
+  <block id="38332dc0c3ca19f4fc3fc46728002c03" category="inline-image-macro">新增功能</block>
+  <block id="4758080db72f761bca56b7d6d4576c94" category="paragraph"><block ref="4758080db72f761bca56b7d6d4576c94" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2e1408437bfb2755f1660ba4e5e5c374" category="summary">您可以在SaaS Backup Partner Central中監控SaaS Backup for Microsoft 365備份、同步及還原客戶的工作。</block>
+  <block id="a5d57b9df3c2b3466f1f07ed148a4e14" category="doc">監控客戶工作</block>
+  <block id="715c2ec34bedd919ed6b24e9e5a5be8e" category="paragraph">您可以在SaaS Backup Partner Central中監控SaaS Backup for Microsoft 365客戶的備份、同步及還原工作。</block>
+  <block id="1c391ce62c1fd3e0853b5045c1e19a03" category="list-text">在儀表板中、按一下*監控*。</block>
+  <block id="ac1a66ffc833e301cc5ff2b337ac7fba" category="inline-image-macro">監控頁面</block>
+  <block id="424497c862b5207241d976fcfd2fdf7a" category="paragraph"><block ref="424497c862b5207241d976fcfd2fdf7a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="cdb16863670a0576bd86ce9f53a87273" category="paragraph">在*監控*中、您可以在兩個獨立的索引標籤中查看客戶的工作記錄：*執行工作*和*完成工作*。</block>
+  <block id="7f901e99e13c2d0e72f89cf43c0f7d5a" category="list-text">您可以依工作類型、服務類型、網域名稱和狀態來篩選*執行中的工作*和*完成的工作*。</block>
+  <block id="296d9904fe6e7d4e26a6563cc180bb97" category="list-text">若要依工作類型篩選、請按一下「*工作類型*」下的「*篩選器*」、然後選取工作類型。</block>
+  <block id="304a99f6674db4ebf59826d0394f5d65" category="inline-image-macro">依工作類型篩選</block>
+  <block id="7e2fc34093ca258fa8825f193b8f0090" category="paragraph"><block ref="7e2fc34093ca258fa8825f193b8f0090" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1dceec4f0dde6b226d2ebb522d75f4d8" category="paragraph">*現在*工作類型是指隨需工作。</block>
+  <block id="cc099b9e972c5e8555456c56d5c13eb1" category="list-text">若要依服務類型篩選、請按一下「*服務類型*」下的「*篩選器*」、然後選取該服務。</block>
+  <block id="6d71a0e3fba05454dd2180890bf7963b" category="paragraph">選取服務：</block>
+  <block id="3cec94f2c3f7bd13aed2488dadd12834" category="list-text">Exchange Online</block>
+  <block id="2950e5d428cbc3f55c7aec75694f130a" category="list-text">商務用OneDrive</block>
+  <block id="27bafb3855ae4ca3df676518f2aaad5a" category="list-text">SharePoint Online</block>
+  <block id="b48d0ddc83fead4eb625c684db35f9b2" category="list-text">Office 365群組</block>
+  <block id="952b54717a5203b7610b5553226a1ebe" category="list-text">若要依客戶篩選、請按一下*網域名稱*下的*篩選器*、然後選取或搜尋客戶網域。</block>
+  <block id="cfea7e40d918319588ec57d920498890" category="inline-image-macro">依客戶網域篩選</block>
+  <block id="a022efb82ad52fadc3a13ccb57e967bd" category="paragraph"><block ref="a022efb82ad52fadc3a13ccb57e967bd" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="68da71bfced41ca5bcdf647f96930cb4" category="list-text">若要依狀態篩選、請按一下「*狀態*」下的「*篩選器*」、然後選取狀態。</block>
+  <block id="40b8b1113174bd73d24e17028a714abd" category="inline-image-macro">依工作狀態篩選</block>
+  <block id="66780f1cc75f32493d2086c19aab9fdd" category="paragraph"><block ref="66780f1cc75f32493d2086c19aab9fdd" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2f2cdfaae11387cf447edda4e8b53a03" category="summary">您可以在SaaS Backup Partner Central中新增及管理客戶。</block>
+  <block id="1c5f859d60bac24aa56f41c122c66ccb" category="doc">新增、刪除及管理客戶</block>
+  <block id="567d391229108ec1470ec569d0d69313" category="paragraph">您可以在SaaS Backup Partner Central中新增及刪除客戶。若要管理客戶資料、您將使用SaaS Backup for Microsoft 365使用者介面。</block>
+  <block id="1bc5c06c250f22dc2b56f7e43b32f6b0" category="paragraph">如果您想要將SaaS Backup for Microsoft 365的現有租戶新增至Partner Central、請聯絡SaaS備份支援部門：saasbackupsupport@netapp.com。</block>
+  <block id="7d2d723512484c4082ec3a3475915416" category="section-title">新增客戶</block>
+  <block id="91de33d9eae5dc33f31046620e575e25" category="list-text">在儀表板中、按一下左側的* Customers *（客戶*）。</block>
+  <block id="d55fe1b20d9a542c91557b02ec7c7298" category="inline-image-macro">儀表板客戶檢視</block>
+  <block id="69069b8ce91665cb447a8ce2801e3a05" category="paragraph"><block ref="69069b8ce91665cb447a8ce2801e3a05" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="680df6bfbb96f506daed2853e34852f9" category="inline-image-macro">新增客戶圖示</block>
+  <block id="e1afa328c29b48386b0ac78830e45bfa" category="list-text">在*客戶清單*畫面上、按一下 <block ref="7f054edb3b112dca13f9fae0ee22109d" category="inline-image-macro-rx" type="image"></block> 以新增客戶。</block>
+  <block id="6adfa1832b1c984770e72909029631f4" category="inline-image-macro">新增客戶畫面</block>
+  <block id="2fe92bd396c5de7c4af5361885e3272c" category="paragraph"><block ref="2fe92bd396c5de7c4af5361885e3272c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6881b727848bbdcff08ae2244ef65bc7" category="list-text">在快顯視窗中、按一下Office 365圖示以建立新的客戶訂閱。</block>
+  <block id="d4b054cb8a72b73b319023d60222ecb8" category="list-text">輸入Microsoft 365全域系統管理員服務帳戶的電子郵件地址和密碼、然後按一下*登入*。</block>
+  <block id="b22619f5adbc677457edab92a9eb7d1b" category="list-text">隨即顯示SaaS Backup for Microsoft 365所要求的權限清單。按一下*接受*。</block>
+  <block id="40947ae6b3a2c083aca2a6717d78f1de" category="list-text">返回Partner Central、按一下 <block ref="744ace9822aa2af1d8a882e2d7b91f49" category="inline-image-macro-rx" type="image"></block> 在*客戶名單*中的*行動*下完成*客戶註冊*。</block>
+  <block id="731c589b23b6f4947159044ca270e985" category="inline-image-macro">按一下「新增」圖示以完成客戶註冊</block>
+  <block id="6e9e8c237105f4e0d511f251ee8faa00" category="paragraph"><block ref="6e9e8c237105f4e0d511f251ee8faa00" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="183a922f9c99c146568fa3a722e97f1b" category="list-text">輸入要求的使用者資訊。</block>
+  <block id="b7d237fc31f325c5817f87155079b5c1" category="inline-image-macro">完成客戶註冊</block>
+  <block id="bfa99f4839375bca3578f8d4243c829f" category="paragraph"><block ref="bfa99f4839375bca3578f8d4243c829f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1137803a941291b1e76d449aba8a1fd3" category="list-text">選取訂閱類型：</block>
+  <block id="8020afffa54c37aedc1d1e817e13aa9d" category="list-text">如果這是試用訂閱、請輸入啟動代碼。</block>
+  <block id="51987e7331177af2cd295c60ab493dba" category="list-text">如果這是授權訂閱、請輸入您的NetApp SSO和產品序號。</block>
+  <block id="ea04f170eccaff23015594c6779ba4fa" category="list-text">在*儲存選擇*下選取您的儲存設備。</block>
+  <block id="97ef2a6f38b08daaafece4907f7c83ad" category="paragraph">如果您使用SaaS備份所提供的儲存設備：</block>
+  <block id="162f1fc477521302ac776a4ae3959949" category="list-text">按一下「* SaaS備份提供的儲存設備*」。</block>
+  <block id="4df443d6d7bf567253cafecb4fcd0872" category="list-text">選擇* Amazon S2*或* Azure Blob *儲存選項。</block>
+  <block id="76af2b16db3a846582a8a032706d3035" category="list-text">選取* AWS S1*或* Azure Blob *區域進行備份。您應該選取最接近所備份資料實體位置的區域。</block>
+  <block id="2e1dad6e24adad122399a2583fbcf048" category="list-text">按一下「 * 建立 * 」。右側會出現狀態更新、顯示「客戶正在註冊」。 狀態更新完成後、狀態會變更為「Customer Sign Up completed（客戶註冊完成）」、狀態會變成「Active（作用中）」。</block>
+  <block id="625d7536f7f37edbe36ac157416d331a" category="section-title">刪除客戶</block>
+  <block id="b44d06e85a3730aea979e26ad4c5fefd" category="list-text">在客戶清單中尋找您要刪除的客戶。按一下 <block ref="3397c2f221ca34be0b19b2ceade18ba3" category="inline-image-macro-rx" type="image"></block> 刪除客戶。</block>
+  <block id="7b36e9bf3c114f06aa5a8685a6e1e459" category="inline-image-macro">刪除客戶</block>
+  <block id="30462d915bc4aaabd259816f27301fda" category="paragraph"><block ref="30462d915bc4aaabd259816f27301fda" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8d3d7f059960c67459984ab0a009af61" category="section-title">管理客戶資料</block>
+  <block id="fa8d15d767ba435df151b4ba22d51bf7" category="paragraph">新增客戶之後、您可以從Partner Central的儀表板檢視客戶詳細資料、例如客戶名稱、狀態和總工作數。</block>
+  <block id="f5ee9c2c59a7d17ebb0e628bc6462d0f" category="inline-image-macro">儀表板客戶檢視</block>
+  <block id="bfd1fa440ffdd4192c195b9235536ee9" category="paragraph"><block ref="bfd1fa440ffdd4192c195b9235536ee9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3401d336f5cb21529ff894bb04167eab" category="paragraph">若要管理客戶資料、您將使用SaaS Backup for Microsoft 365使用者介面。</block>
+  <block id="c2dcb4521968f694a4bdbdfa883788a2" category="inline-image-macro">退貨圖示</block>
+  <block id="c630aa3641d305477122baabad962c4b" category="list-text">按一下 <block ref="6e130934aba6dd2600627177c5c2cb47" category="inline-image-macro-rx" type="image"></block> 重新導向至SaaS Backup for Microsoft 365使用者介面、以管理客戶資料。</block>
+  <block id="4f8955fe2ec9a7f21af6e897ddaa0d4a" category="inline-image-macro">重新導向至SaaS Backup for Microsoft 365</block>
+  <block id="ad42c630fe1dd11ff7a471af88e3b1d6" category="paragraph"><block ref="ad42c630fe1dd11ff7a471af88e3b1d6" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="23cd93610689ab0c931387bb3bd58775" category="paragraph">若要返回Partner Central、請按一下SaaS Backup for Microsoft 365使用者介面左側客戶姓名下方的* Partner Centr集中*。</block>
+  <block id="fb6eab5addcf4b8d8a6ec8831df72efd" category="inline-image-macro">返回Partner Central</block>
+  <block id="f35d3285594f4748c416922780f7d1d3" category="paragraph"><block ref="f35d3285594f4748c416922780f7d1d3" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="545a07adef077708e0796b9bd8491fe4" category="inline-link-macro">NetApp SaaS Backup for Microsoft 365線上文件</block>
+  <block id="dbcb5783ba4612e26d0458de7a77eb85" category="paragraph">如需如何使用SaaS Backup for Microsoft 365的相關資訊、請前往 <block ref="fc0d6ef83f94ffbc6e2d26f334e24274" category="inline-link-macro-rx"></block>。</block>
+  <block id="f8ae6b0d797d8aa392d4533d9b74db73" category="summary">您可以在Partner Central中新增及管理金鑰、以增強安全性。您也可以找到PowerShell Cmdlet介面的支援。</block>
+  <block id="4083a031be9d1ce08dde21494d3976f0" category="doc">管理金鑰</block>
+  <block id="a308e1de9050f258886ad5097b357575" category="paragraph">您可以在「*金鑰管理*」設定中新增及管理金鑰、以增強Partner Central的安全性。您也可以找到PowerShell Cmdlet介面的支援。</block>
+  <block id="9cca82fdcfe9bc5d32d0c7158beec0c9" category="section-title">新增金鑰</block>
+  <block id="b4d957bb1de18875da8d6fb4b66fff2f" category="list-text">從下拉式功能表中選取*金鑰管理*。</block>
+  <block id="ea77f6cd2bf52df2407b6a9a2b644151" category="inline-image-macro">設定下拉式功能表金鑰管理</block>
+  <block id="cbc80748ca5e02b8edcbb0accdd758ac" category="paragraph"><block ref="cbc80748ca5e02b8edcbb0accdd758ac" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="db0c6344cb515d3e079bf201b6f61f66" category="inline-image-macro">新增按鍵圖示</block>
+  <block id="ae0abb06791089c89fc15c1c37f78f31" category="list-text">若要新增金鑰、請按一下 <block ref="6f4201a5da68519dea18c828bf9b69bd" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="3a20ce18dd185ad85f3e35fed834abf1" category="inline-image-macro">金鑰管理畫面</block>
+  <block id="05b5a35e21441f33f1a0994efb95c8ce" category="paragraph"><block ref="05b5a35e21441f33f1a0994efb95c8ce" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6342a6c7ff458a19b65b16267552ca57" category="list-text">在*新增金鑰*中、執行下列動作：</block>
+  <block id="c7358ca4e636c76e39a54b5adc9b9cb9" category="inline-image-macro">新增按鍵畫面</block>
+  <block id="0bf4939b794662059414bba2baa00737" category="paragraph"><block ref="0bf4939b794662059414bba2baa00737" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="bf3065869964936aaa68f8eff5fc7c2e" category="list-text">選取使用者。</block>
+  <block id="7ecffce80cc65be8a35cfaaaf9c785df" category="list-text">新增說明。</block>
+  <block id="4fbdf54ffbbae3fcd9e72333988208a4" category="list-text">選取「過期」。</block>
+  <block id="c101bffe92c100594eb2a6f1067cbb16" category="list-text">按一下「 * 新增 * 」。此時會出現一個方塊、並顯示「Successfully generated the key」（成功產生金鑰）訊息。</block>
+  <block id="3223a0325a3482ca93e76c78f2647235" category="inline-image-macro">顯示按鍵圖示</block>
+  <block id="e0385137855e45d065623977b5e937b2" category="inline-image-macro">隱藏按鍵圖示</block>
+  <block id="fa2df5a862b7a59888412ac406e74f38" category="list-text">按一下 <block ref="6211f5f3543b18126f5cb4c8b7c04eb3" category="inline-image-macro-rx" type="image"></block> 顯示未加密的金鑰、然後按一下 <block ref="010ee53af5c5f822e0070e45fae2be5d" category="inline-image-macro-rx" type="image"></block> 隱藏未加密的金鑰。</block>
+  <block id="921a0ecfc6730a28879427fd0281ac5f" category="section-title">下載PowerShell</block>
+  <block id="b3b38b65a04d6e1bae06123cb3d66f6f" category="inline-image-macro">下載PowerShell圖示</block>
+  <block id="9d3e158be25c2bf7a4465ab3fad7c0d3" category="list-text">若要下載PowerShell、請按一下 <block ref="9d346df1ef229d4025c737e49a9aed10" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="e5619dd51cac21cf148f2b484e35836d" category="list-text">安裝下載的程式。</block>
+  <block id="1902fe9260b654df58d39430f970011a" category="list-text">安裝程式之後、按兩下桌面上的* SaaS Backup PowerShell*圖示、即可啟動PowerShell Cmdlet。</block>
+  <block id="ca8c9c0154398e79648bcd160fc38f6b" category="inline-link-macro">NetApp SaaS備份PowerShell指南（TR-4873）</block>
+  <block id="d3ce03733dfdf43d215401ad8a54d319" category="paragraph">如需使用NetApp SaaS備份PowerShell模組的詳細資訊、請參閱 <block ref="a0f31f237eb63466a8703284d2872029" category="inline-link-macro-rx"></block>。</block>
+  <block id="9050af74f057a108465be3e32ae53b55" category="summary">您可以在NetApp SaaS備份合作夥伴中心介面中取得協助、尋找更多資訊、並提供意見反應。</block>
+  <block id="3cd12697cda279c9c99b093a265c1ba8" category="doc">何處可取得協助及尋找更多資訊</block>
+  <block id="c48e67c8ed1b729afe73f2b07da8dbcf" category="paragraph">您可以在* Support*的NetApp SaaS Backup Partner Central介面中取得協助並尋找更多資訊。</block>
+  <block id="4039d37702fa4c09dfd731a287773e02" category="inline-image-macro">支援選項</block>
+  <block id="9a8bafa7ab47e8a8a0ccee6bc95e6f2a" category="paragraph"><block ref="9a8bafa7ab47e8a8a0ccee6bc95e6f2a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="75bce0ca28fbc1ea4cfb236f4396a856" category="paragraph">*支援*可讓您存取下列資源：</block>
+  <block id="e3de4cbd268b6817b6b48681163f6c2a" category="list-text">*知識庫*文章</block>
+  <block id="1d9b4860eca37f6686bcb2792f34ee9d" category="list-text">*社群*</block>
+  <block id="12b886e31e39b25111ba78c614d5d177" category="list-text">*使用手冊*</block>
+  <block id="c48730cb532534ed8ded87a7e1e63743" category="list-text">*意見反應*</block>
+  <block id="dacd72a87c9099fa5a9c737889f511f8" category="list-text">*信託中心*</block>
+  <block id="0a2a5e521c0259e31bbc32ed9dd1fcd5" category="list-text">*聯絡我們*</block>
+  <block id="15f9ee239f9ae142c06591f58934b1db" category="summary">您可以註冊成為合作夥伴、然後在Partner Central介面中開始新增及管理客戶。</block>
+  <block id="39259c470f5b8c0975165d1822052c37" category="doc">註冊NetApp SaaS備份合作夥伴中心</block>
+  <block id="0cd7c2688e1916155c330e8a43bd6b24" category="paragraph">在NetApp SaaS Backup Partner Central中、您可以註冊成為合作夥伴。註冊之後、您可以開始在介面中新增及管理客戶。</block>
+  <block id="00c5af5d165f8b8558d798eb449eaec0" category="inline-link-macro">SaaS備份合作夥伴中心</block>
+  <block id="78ee2f4843b98a09fc47ce3a8406f664" category="list-text">前往 <block ref="5287b8b6894a4e58daacca88d14d474b" category="inline-link-macro-rx"></block>。</block>
+  <block id="85614a1653de2b4b92c16c0f722b4d05" category="inline-image-macro">Partner Central登入頁面</block>
+  <block id="7b55ec64de5cff1fea0e74db95d9b736" category="paragraph"><block ref="7b55ec64de5cff1fea0e74db95d9b736" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4c0c0dff556eaa9b8bb9dbc866d8d728" category="list-text">從下拉式功能表中選取您所在的地區。預設區域為US。</block>
+  <block id="5240cad2aea33b1c88320a6e7a0c78ef" category="list-text">若要註冊、請閱讀並同意*服務條款*。</block>
+  <block id="49543e6ca1b5c40fc191d4a4030f5e13" category="list-text">按一下「* NetApp SSSSO *」。</block>
+  <block id="7270bdbe561545be71900f7287f54863" category="list-text">在NetApp登入頁面上、以您的NetApp SSO認證登入。</block>
+  <block id="d908fb2a11fda104dc60600e0dd5271a" category="list-text">輸入要求的登錄資訊。若要申請啟動代碼、請聯絡SaaS備份產品管理部門。</block>
+  <block id="139f45b47f9daef5a0a4ce91311a0f17" category="inline-image-macro">登錄頁面</block>
+  <block id="c26c724056b7eefe0f611b91b3a77bc9" category="paragraph"><block ref="c26c724056b7eefe0f611b91b3a77bc9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9909e23ede42f2318acada35ac10bd3e" category="list-text">按一下 * 註冊 * 。</block>
+  <block id="6ef1a425977ae7f0b4aa9807d8a6948e" category="summary">在Partner Central中、您可以針對授權使用量、儲存使用量、工作統計資料、活動、稽核、 和續約。</block>
+  <block id="0a20f8ab3f14dc5cfec9c5570a7bc665" category="doc">產生報告</block>
+  <block id="5fa73db7f95cea2851a687a0e525bbd2" category="paragraph">在SaaS Backup Partner Central中、您可以針對授權使用量、儲存使用量、工作統計資料、活動、稽核、 和續約。</block>
+  <block id="362aed61d58dcba8e41e6c3eb52a8537" category="list-text">在儀表板中、按一下左側的* Reports*。</block>
+  <block id="850403fd8108c17212638f33d35860c0" category="inline-image-macro">報告頁面</block>
+  <block id="8ad6a271b90ab5e88d2355fe14a99d0e" category="paragraph"><block ref="8ad6a271b90ab5e88d2355fe14a99d0e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2331f55ce6005498a04b4ad808b41088" category="list-text">選取您要產生報告的類別。</block>
+  <block id="3b626e056bf70496307463be1bd8bdbe" category="list-text">*授權使用率*</block>
+  <block id="a792ac3c8fa8ea3db701d5bc1225c27e" category="list-text">*儲存設備使用率*</block>
+  <block id="09a62f9c63ec4fde28fd7f2500c7b885" category="list-text">*工作統計資料*</block>
+  <block id="29061c4d823c21f83e62e367550c8389" category="list-text">*活動報告*</block>
+  <block id="55f7392fa5cc8b1a20f9eb78e6b1f9de" category="list-text">*稽核報告*</block>
+  <block id="0f77c9d4026a1e87079823dd814289d4" category="list-text">*續約報告*</block>
+  <block id="a7fdad31e918ca755cdc1c3e5eee6e98" category="list-text">按一下類別下的「*產生*」。報告會以CSV格式產生。</block>
+  <block id="2ac9b834f6348b72970d659f84684c20" category="sidebar">Partner Central</block>
+  <block id="7ecd0726b721e17d74d280fdd93e49f8" category="sidebar">產生報告</block>
+  <block id="23ad15066715d93a5dfb7d99bfb0d157" category="sidebar">管理設定</block>
+  <block id="125f065ef0a6b33559b191f2a73d9dbe" category="sidebar">管理金鑰</block>
+  <block id="a340b786a137624da1d053fa7f0bb5ea" category="sidebar">何處可取得協助及尋找資訊</block>
+</blocks>

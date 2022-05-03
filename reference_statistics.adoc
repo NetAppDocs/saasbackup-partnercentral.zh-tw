@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_reference_statistics.html 
+keywords: partner central, saas backup, microsoft 365, numerical, graphical, statistics 
+summary: 在SaaS Backup Partner Central中、* Statistics *（統計資料*）畫面會顯示多種類別的統計資料、協助您管理適用於Microsoft 365客戶的SaaS備份。 
+---
+= 統計資料
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+在SaaS Backup Partner Central中、* Statistics（統計資料）*檢視會顯示統計資料、協助您管理適用於Microsoft 365客戶的SaaS備份。
+
+下列項目會顯示數值統計資料：
+
+* *獲授權的客戶*
+* *試用（客戶）*
+* *作用中工作*
+* *匯出工作*
+* *受保護的使用者*
+* *還原工作*
+* *客戶總數*
+* *總工作數*
+
+
+image:numerical_statistics.png["數字統計資料"]
+
+下列項目的圖形統計資料會顯示出來：
+
+* *客戶*
+* *工作*
+
+
+image:graphical_statistics.png["圖形統計資料"]

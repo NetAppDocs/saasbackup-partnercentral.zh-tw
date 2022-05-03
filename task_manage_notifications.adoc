@@ -1,0 +1,50 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_manage_notifications.html 
+keywords: saas backup, partner central, settings, manage, notifications, add, delete, modify, enable, disable, customize 
+summary: 在SaaS Backup Partner Central中、您可以新增、修改及刪除不同使用者的通知。 
+---
+= 管理通知
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+在SaaS Backup Partner Central中、您可以新增、修改及刪除不同使用者的通知。
+
+您可以啟用或停用下列通知：
+
+* 新增使用者至角色
+* 客戶刪除成功
+* 成功的客戶
+* 客戶刪除失敗
+* 客戶機上故障
+
+
+.步驟
+. 在儀表板中、按一下 image:settings_icon.png["設定圖示"]。
+. 從下拉式功能表中選取*通知*。
++
+image:settings_notifications.png["設定下拉式功能表選取通知"]
+
+. 在*通知管理*中、您可以新增、修改及刪除通知。
++
+image:notification_management_screen.png["通知管理畫面"]
+
++
+.. 若要新增通知、請按一下 image:add_notification_icon.png["新增通知圖示"] 可向用戶增加通知。
++
+在*新增通知*中、輸入使用者的電子郵件地址。選取您要啟用的通知、然後按一下「*新增*」。
+
++
+image:add_notifications_screen.png["自訂通知"]
+
+.. 若要修改通知、請按一下 image:pencil_icon.png["鉛筆圖示"]。
+.. 若要刪除通知、請按一下 image:delete_icon_blue.png["刪除圖示"]。
+
+
+

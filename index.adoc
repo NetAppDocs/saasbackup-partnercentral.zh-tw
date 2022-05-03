@@ -1,0 +1,50 @@
+---
+sidebar: sidebar 
+permalink: index.html 
+summary: 歡迎使用適用於Partner Central的NetApp SaaS備份文件入口網站。 
+---
+= NetApp SaaS備份合作夥伴中心文件
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:keywords: saas backup, partner central, partners, microsoft 365, documentation, new, get started, provide feedback, get help, find, information
+
+
+NetApp SaaS Backup Partner Central是一個介面、可協助NetApp合作夥伴管理及支援使用SaaS Backup for Microsoft 365的客戶。本指南提供在Partner Central中註冊、管理客戶、以及修改設定、合作夥伴與客戶資訊的步驟。
+
+
+
+== 瞭解新功能
+
+* link:partnercentral_reference_new.html["版本資訊"]
+* 如需產品更新、使用方法影片及服務健全狀況的相關資訊、請前往*新增功能*儀表板檢視。
++
+image:whats_new.png["Partner Central *最新消息*"]
+
+
+
+
+
+== 開始使用
+
+* link:partnercentral_task_register.html["註冊Partner Central"]
+* link:partnercentral_task_add_and_manage_customers.html["新增及管理客戶"]
+
+
+
+
+== 取得協助、尋找更多資訊、並提供意見反應
+
+* 若要存取不同的支援資源、請前往Partner Central使用者介面中的* Support*。
++
+image:support_page.png["支援頁面"]
+
++
+「*支援*」頁面可讓您存取*知識庫*文章、*社群*、*適用於Microsoft 365 SaaS備份的使用手冊*、以及*信任中心*。如果您選擇*聯絡我們*、您也可以提供意見回饋和詢問問題。
+
+* link:https://cloud.netapp.com/saas-backup["適用於Microsoft 365的SaaS備份產品頁面"]
+* link:https://docs.netapp.com/us-en/saasbackupO365/["SaaS Backup for Microsoft 365的使用者文件"]
+

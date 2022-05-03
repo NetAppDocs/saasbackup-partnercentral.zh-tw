@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_register.html 
+keywords: Partner Central, SaaS Backup, NetApp SSO, register, sign up, partner, registration 
+summary: 您可以註冊成為合作夥伴、然後在Partner Central介面中開始新增及管理客戶。 
+---
+= 註冊NetApp SaaS備份合作夥伴中心
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+在NetApp SaaS Backup Partner Central中、您可以註冊成為合作夥伴。註冊之後、您可以開始在介面中新增及管理客戶。
+
+.步驟
+. 前往 link:https://saasbackup.netapp.com/partner-central/["SaaS備份合作夥伴中心"]。
++
+image:partner_sign_in_page.png["Partner Central登入頁面"]
+
+. 從下拉式功能表中選取您所在的地區。預設區域為US。
+. 若要註冊、請閱讀並同意*服務條款*。
+. 按一下「* NetApp SSSSO *」。
+. 在NetApp登入頁面上、以您的NetApp SSO認證登入。
+. 輸入要求的登錄資訊。若要申請啟動代碼、請聯絡SaaS備份產品管理部門。
++
+image:register_sign_up.png["登錄頁面"]
+
+. 按一下 * 註冊 * 。
+

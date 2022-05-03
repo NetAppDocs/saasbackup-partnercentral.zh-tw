@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_reference_get_help_find_info.html 
+keywords: where to find more information, help, support, feedback, ask questions 
+summary: 您可以在NetApp SaaS備份合作夥伴中心介面中取得協助、尋找更多資訊、並提供意見反應。 
+---
+= 何處可取得協助及尋找更多資訊
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+您可以在* Support*的NetApp SaaS Backup Partner Central介面中取得協助並尋找更多資訊。
+
+image:support_page.png["支援選項"]
+
+*支援*可讓您存取下列資源：
+
+* *知識庫*文章
+* *社群*
+* *使用手冊*
+* *意見反應*
+* *信託中心*
+* *聯絡我們*
+

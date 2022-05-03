@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_generate_reports.html 
+keywords: saas backup, partner central, generate, reports, 
+summary: 在Partner Central中、您可以針對授權使用量、儲存使用量、工作統計資料、活動、稽核、 和續約。 
+---
+= 產生報告
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+在SaaS Backup Partner Central中、您可以針對授權使用量、儲存使用量、工作統計資料、活動、稽核、 和續約。
+
+.步驟
+. 在儀表板中、按一下左側的* Reports*。
++
+image:reports_page.png["報告頁面"]
+
+. 選取您要產生報告的類別。
++
+** *授權使用率*
+** *儲存設備使用率*
+** *工作統計資料*
+** *活動報告*
+** *稽核報告*
+** *續約報告*
+
+
+. 按一下類別下的「*產生*」。報告會以CSV格式產生。
+

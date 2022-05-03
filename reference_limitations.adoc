@@ -1,0 +1,20 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_reference_limitations.html 
+keywords: saas backup, partner central, microsoft 365, problems, limitations 
+summary: 已知問題與限制的清單。 
+---
+= 已知問題與限制
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+存在下列限制：
+
+* 合作夥伴無法根據委派的權限來裝載租戶。
+
