@@ -3,7 +3,6 @@
   <block id="ec4f83a67a4298da0fd76c4e8a66dc85" category="summary">歡迎使用適用於Partner Central的NetApp SaaS備份文件入口網站。</block>
   <block id="026434100c73bca9db8ba1db98cc3853" category="doc">NetApp SaaS備份合作夥伴中心文件</block>
   <block id="1fcc6bcfa809f3049279857f9d1b7273" category="paragraph">NetApp SaaS Backup Partner Central是一個介面、可協助NetApp合作夥伴管理及支援使用SaaS Backup for Microsoft 365的客戶。本指南提供在Partner Central中註冊、管理客戶、以及修改設定、合作夥伴與客戶資訊的步驟。</block>
-  <block id="1fde0727b387439572ade83eecff4f68" category="section-title">瞭解新功能</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="inline-link-macro">版本資訊</block>
   <block id="581ba4d54ae65da41a0053e95e169521" category="list-text"><block ref="581ba4d54ae65da41a0053e95e169521" category="inline-link-macro-rx"></block></block>
   <block id="e92ad139d030481f83fb34bc6eb4528d" category="list-text">如需產品更新、使用方法影片及服務健全狀況的相關資訊、請前往*新增功能*儀表板檢視。</block>
@@ -245,4 +244,5 @@
   <block id="23ad15066715d93a5dfb7d99bfb0d157" category="sidebar">管理設定</block>
   <block id="125f065ef0a6b33559b191f2a73d9dbe" category="sidebar">管理金鑰</block>
   <block id="a340b786a137624da1d053fa7f0bb5ea" category="sidebar">何處可取得協助及尋找資訊</block>
+  <block id="492e5546e60705134bff8d7f80511a8d" category="section-title">瞭解最新資訊</block>
 </blocks>
