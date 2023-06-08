@@ -170,9 +170,7 @@
   <block id="f35d3285594f4748c416922780f7d1d3" category="paragraph"><block ref="f35d3285594f4748c416922780f7d1d3" category="inline-image-macro-rx" type="image"></block></block>
   <block id="545a07adef077708e0796b9bd8491fe4" category="inline-link-macro">NetApp SaaS Backup for Microsoft 365線上文件</block>
   <block id="dbcb5783ba4612e26d0458de7a77eb85" category="paragraph">如需如何使用SaaS Backup for Microsoft 365的相關資訊、請前往 <block ref="fc0d6ef83f94ffbc6e2d26f334e24274" category="inline-link-macro-rx"></block>。</block>
-  <block id="f8ae6b0d797d8aa392d4533d9b74db73" category="summary">您可以在Partner Central中新增及管理金鑰、以增強安全性。您也可以找到PowerShell Cmdlet介面的支援。</block>
   <block id="4083a031be9d1ce08dde21494d3976f0" category="doc">管理金鑰</block>
-  <block id="a308e1de9050f258886ad5097b357575" category="paragraph">您可以在「*金鑰管理*」設定中新增及管理金鑰、以增強Partner Central的安全性。您也可以找到PowerShell Cmdlet介面的支援。</block>
   <block id="9cca82fdcfe9bc5d32d0c7158beec0c9" category="section-title">新增金鑰</block>
   <block id="b4d957bb1de18875da8d6fb4b66fff2f" category="list-text">從下拉式功能表中選取*金鑰管理*。</block>
   <block id="ea77f6cd2bf52df2407b6a9a2b644151" category="inline-image-macro">設定下拉式功能表金鑰管理</block>
@@ -191,13 +189,6 @@
   <block id="3223a0325a3482ca93e76c78f2647235" category="inline-image-macro">顯示按鍵圖示</block>
   <block id="e0385137855e45d065623977b5e937b2" category="inline-image-macro">隱藏按鍵圖示</block>
   <block id="fa2df5a862b7a59888412ac406e74f38" category="list-text">按一下 <block ref="6211f5f3543b18126f5cb4c8b7c04eb3" category="inline-image-macro-rx" type="image"></block> 顯示未加密的金鑰、然後按一下 <block ref="010ee53af5c5f822e0070e45fae2be5d" category="inline-image-macro-rx" type="image"></block> 隱藏未加密的金鑰。</block>
-  <block id="921a0ecfc6730a28879427fd0281ac5f" category="section-title">下載PowerShell</block>
-  <block id="b3b38b65a04d6e1bae06123cb3d66f6f" category="inline-image-macro">下載PowerShell圖示</block>
-  <block id="9d3e158be25c2bf7a4465ab3fad7c0d3" category="list-text">若要下載PowerShell、請按一下 <block ref="9d346df1ef229d4025c737e49a9aed10" category="inline-image-macro-rx" type="image"></block>。</block>
-  <block id="e5619dd51cac21cf148f2b484e35836d" category="list-text">安裝下載的程式。</block>
-  <block id="1902fe9260b654df58d39430f970011a" category="list-text">安裝程式之後、按兩下桌面上的* SaaS Backup PowerShell*圖示、即可啟動PowerShell Cmdlet。</block>
-  <block id="ca8c9c0154398e79648bcd160fc38f6b" category="inline-link-macro">NetApp SaaS備份PowerShell指南（TR-4873）</block>
-  <block id="d3ce03733dfdf43d215401ad8a54d319" category="paragraph">如需使用NetApp SaaS備份PowerShell模組的詳細資訊、請參閱 <block ref="a0f31f237eb63466a8703284d2872029" category="inline-link-macro-rx"></block>。</block>
   <block id="9050af74f057a108465be3e32ae53b55" category="summary">您可以在NetApp SaaS備份合作夥伴中心介面中取得協助、尋找更多資訊、並提供意見反應。</block>
   <block id="3cd12697cda279c9c99b093a265c1ba8" category="doc">何處可取得協助及尋找更多資訊</block>
   <block id="c48e67c8ed1b729afe73f2b07da8dbcf" category="paragraph">您可以在* Support*的NetApp SaaS Backup Partner Central介面中取得協助並尋找更多資訊。</block>
@@ -245,4 +236,6 @@
   <block id="125f065ef0a6b33559b191f2a73d9dbe" category="sidebar">管理金鑰</block>
   <block id="a340b786a137624da1d053fa7f0bb5ea" category="sidebar">何處可取得協助及尋找資訊</block>
   <block id="492e5546e60705134bff8d7f80511a8d" category="section-title">瞭解最新資訊</block>
+  <block id="adb037296ec5890668582b7d941e31a7" category="summary">您可以在Partner Central中新增及管理金鑰、以增強安全性。</block>
+  <block id="c56e63c2fd8bbde29916a0445162e4b2" category="paragraph">您可以在「*金鑰管理*」設定中新增及管理金鑰、以增強Partner Central的安全性。</block>
 </blocks>

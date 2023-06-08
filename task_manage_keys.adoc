@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: partnercentral_task_manage_keys.html 
-keywords: saas backup, partner central, key management, manage, key, keys, add, download, PowerShell 
-summary: 您可以在Partner Central中新增及管理金鑰、以增強安全性。您也可以找到PowerShell Cmdlet介面的支援。 
+keywords: saas backup, partner central, key management, manage, key, keys, add, download, 
+summary: 您可以在Partner Central中新增及管理金鑰、以增強安全性。 
 ---
 = 管理金鑰
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: 您可以在Partner Central中新增及管理金鑰、以增強安全�
 
 
 [role="lead"]
-您可以在「*金鑰管理*」設定中新增及管理金鑰、以增強Partner Central的安全性。您也可以找到PowerShell Cmdlet介面的支援。
+您可以在「*金鑰管理*」設定中新增及管理金鑰、以增強Partner Central的安全性。
 
 
 
@@ -43,20 +43,3 @@ image:add_key_screen.png["新增按鍵畫面"]
 
 . 按一下 image:eye_show_key_icon.png["顯示按鍵圖示"] 顯示未加密的金鑰、然後按一下 image:eye_hide_key_icon.png["隱藏按鍵圖示"] 隱藏未加密的金鑰。
 
-
-
-
-== 下載PowerShell
-
-.步驟
-. 在儀表板中、按一下 image:settings_icon.png["設定圖示"]。
-. 從下拉式功能表中選取*金鑰管理*。
-+
-image:settings_key_management.png["設定下拉式功能表金鑰管理"]
-
-. 若要下載PowerShell、請按一下 image:download_powershell_icon.png["下載PowerShell圖示"]。
-. 安裝下載的程式。
-. 安裝程式之後、按兩下桌面上的* SaaS Backup PowerShell*圖示、即可啟動PowerShell Cmdlet。
-
-
-如需使用NetApp SaaS備份PowerShell模組的詳細資訊、請參閱 link:https://fieldportal.netapp.com/content/1255854["NetApp SaaS備份PowerShell指南（TR-4873）"]。
